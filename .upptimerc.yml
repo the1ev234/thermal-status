@@ -17,7 +17,7 @@ sites:
       - 404
 
 assignees:
-  - Heliodex
+  - the1ev234
 
 status-website:
   theme: night
@@ -26,7 +26,7 @@ status-website:
   cname: status.thermaz.online
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/tp-link-extender/status/main/Mercury.svg
-  name: Mercury
+  name: Thermal
   introTitle: "Thermal status"
   navbar:
     - title: thermal
