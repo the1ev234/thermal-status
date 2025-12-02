@@ -36,7 +36,7 @@ status-website:
       href: https://github.com/the1ev234/thermal-status
 
 i18n:
-  footer: "[Mercury](https://mercs.dev). This page is [open source]($REPO)."
+  footer: "[Thermal](https://thermaz.online). This page is [open source]($REPO)."
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
