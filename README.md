@@ -1,2 +1,0 @@
-# status for thermal
-balls
